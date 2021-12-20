@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+}
+
+.menu{
+    background-color: black;
+}
+
+.menu a{
+    text-decoration: none;
+    line-height: 35px;
+    color: white;
+    font-size: 19px;
+    padding: 5px 15px;
+}
+
+.menu a:hover{
+    background-color: lightgrey;
+    color: black;
+}
+
+.search-box{  
+    background-color: #222;
+    padding: 20px;
+    color: #fff;
+}
+
+.search-box input{
+    font-size: 15px;
+    height: 22px;
+    width: 70%;
+}
+
+.search-box span{
+    font-size: 20px;
+    padding-left: 10px;
+}
